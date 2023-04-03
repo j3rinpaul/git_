@@ -1,2 +1,2 @@
 # git_
-git tutorial sample 
+git tutorial 
